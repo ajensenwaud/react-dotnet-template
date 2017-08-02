@@ -1,4 +1,4 @@
-This repo emerged out of the need to quickly set up a new .NET / React based web applicaiton inside of Visual Studio. There is currently no easy way of using Facebook's create-react-app tool together with Visual Studi0 2017 without all sorts of rewiring. ReactJS.NET exists, but it includes all sorts of magic for Razor and does not fully support create-react-app, ES2016 component exports, etc.  I wanted to make it
+This repo emerged out of the need to quickly set up a new .NET / React based web applicaiton inside of Visual Studio. There is currently no easy way of using Facebook's create-react-app tool together with Visual Studio 2017 without all sorts of rewiring. ReactJS.NET exists, but it includes all sorts of magic for Razor and does not fully support create-react-app, ES2016 component exports, etc.  I wanted to make it
 
 * easier
 * as intended by the vendor
